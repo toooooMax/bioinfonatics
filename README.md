@@ -1,2 +1,2 @@
-# bioinfonatics
+# bioinfomatics
 some tools to solve bio problem
